@@ -1,2 +1,2 @@
 # practiceRepo
-D197 Version Control 
+For WGU Class D197 Version Control.
