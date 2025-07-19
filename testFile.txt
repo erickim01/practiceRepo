@@ -3,3 +3,6 @@ code
 This line of content added once at 20:57 local time.
 
 This line was added once at 20:59 local time. Prior line was already staged, and now staging again to see what happens.
+
+This line added once at 21:01. Staging twice causes no problems, it just removes the prior staged item. Now commiting the same file with different
+modifications twice.
