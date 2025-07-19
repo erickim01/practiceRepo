@@ -1,1 +1,5 @@
 code
+
+This line of content added once at 20:57 local time.
+
+This line was added once at 20:59 local time. Prior line was already staged, and now staging again to see what happens.
