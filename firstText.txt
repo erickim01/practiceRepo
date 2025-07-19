@@ -1,3 +1,5 @@
 firstText
 
 Contents of text go down here.
+
+Second addition of file contents. Add, and commit without '-m' flag.
