@@ -3,3 +3,9 @@ firstText
 Contents of text go down here.
 
 Second addition of file contents. Add, and commit without '-m' flag.
+
+Added new line in this file and in one other file to test what 'git diff' does.
+
+
+
+Second line for 'git diff' test.

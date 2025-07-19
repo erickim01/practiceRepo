@@ -6,3 +6,7 @@ This line was added once at 20:59 local time. Prior line was already staged, and
 
 This line added once at 21:01. Staging twice causes no problems, it just removes the prior staged item. Now commiting the same file with different
 modifications twice.
+
+Added new line in this file and in one other file to test what 'git diff' does.
+
+Second line for 'git diff' test.
